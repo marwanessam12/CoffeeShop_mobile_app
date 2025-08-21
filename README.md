@@ -1,4 +1,4 @@
-# coffee_shop_mobilempp
+# coffee_shop_mobileapp
 
 A Flutter-based mobile & web application for browsing coffee items, placing orders, chatting with drivers or other users, and making secure payments.
 
